@@ -1,0 +1,57 @@
+{
+  "Apple___Apple_scab": {
+    "cause": "Fungal disease caused by Venturia inaequalis.",
+    "symptoms": "Olive-green to brown spots appear on leaves and fruits, leading to distortion and premature leaf drop.",
+    "solution": "Remove fallen leaves and infected fruit. Apply fungicides like Captan or Mancozeb during early leaf development."
+  },
+  "Apple___Black_rot": {
+    "cause": "Caused by the fungus Botryosphaeria obtusa.",
+    "symptoms": "Circular brown spots on leaves, fruit rot with concentric rings, and limb cankers on branches.",
+    "solution": "Prune and destroy infected branches, disinfect tools, and use copper-based fungicides."
+  },
+  "Apple___Cedar_apple_rust": {
+    "cause": "Caused by the fungus Gymnosporangium juniperi-virginianae.",
+    "symptoms": "Bright orange or yellow spots with black centers on leaves, leading to defoliation.",
+    "solution": "Remove nearby juniper plants (alternate hosts) and spray fungicides such as myclobutanil or triforine."
+  },
+  "Corn___Cercospora_leaf_spot_Gray_leaf_spot": {
+    "cause": "Caused by the fungus Cercospora zeae-maydis.",
+    "symptoms": "Gray to tan rectangular lesions between leaf veins, reducing photosynthesis and yield.",
+    "solution": "Use resistant hybrids, rotate crops, and apply fungicides containing strobilurins or triazoles."
+  },
+  "Grape___Black_rot": {
+    "cause": "Caused by the fungus Guignardia bidwellii.",
+    "symptoms": "Small brown leaf spots with black edges, black shriveled fruits known as 'mummies'.",
+    "solution": "Prune infected parts, clear fallen debris, and spray Mancozeb or Captan early in the season."
+  },
+  "Potato___Early_blight": {
+    "cause": "Caused by the fungus Alternaria solani.",
+    "symptoms": "Dark brown concentric ring spots on lower leaves and premature yellowing.",
+    "solution": "Remove infected debris, ensure proper crop rotation, and spray fungicides like Chlorothalonil or Copper oxychloride."
+  },
+  "Potato___Late_blight": {
+    "cause": "Caused by Phytophthora infestans, a water mold.",
+    "symptoms": "Dark irregular blotches on leaves, stems, and fruits; white mold under leaves in humid conditions.",
+    "solution": "Avoid overhead watering, destroy infected plants, and apply copper-based fungicides preventively."
+  },
+  "Tomato___Early_blight": {
+    "cause": "Fungal disease caused by Alternaria solani.",
+    "symptoms": "Dark concentric rings on older leaves and yellowing starting from the bottom upward.",
+    "solution": "Rotate crops, avoid wet foliage, and apply fungicides like Mancozeb or Chlorothalonil."
+  },
+  "Tomato___Late_blight": {
+    "cause": "Caused by the oomycete Phytophthora infestans.",
+    "symptoms": "Brown water-soaked spots on leaves and fruit, grayish mold under humid conditions.",
+    "solution": "Remove infected plants, avoid water on foliage, and use copper-based fungicides at the first sign."
+  },
+  "Tomato___Leaf_Mold": {
+    "cause": "Caused by the fungus Passalora fulva (Cladosporium fulvum).",
+    "symptoms": "Yellow patches on upper leaf surfaces with grayish mold underneath, leading to leaf drop.",
+    "solution": "Improve air circulation, reduce humidity, and spray sulfur or chlorothalonil fungicide."
+  },
+  "Tomato___Healthy": {
+    "cause": "No infection detected.",
+    "symptoms": "Leaves are green, smooth, and free from discoloration or spots.",
+    "solution": "Continue good irrigation, balanced fertilization, and regular monitoring for pests or fungal signs."
+  }
+}
